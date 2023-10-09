@@ -1,0 +1,6 @@
+Sub RetrieveStockPython()
+    RunPython ("import stockPortfolio; stockPortfolio.main()")
+End Sub
+
+
+add this script in the excel developer visual basic module
